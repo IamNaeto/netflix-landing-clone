@@ -1,7 +1,7 @@
 # Netflix landing page clone
 - A repliated version of netflix website landing page built with ``HTML`` and ``CSS`` markup languages.
 
-    - Live Link :: [Go Live](https://netflix-landing-replica.netlify.app/)
+    - Live Link :: [Go Live]()
     
 ## Author: Charles Obimnaeto Egesionu ##
 
